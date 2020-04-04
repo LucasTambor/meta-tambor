@@ -6,4 +6,5 @@ IMAGE_INSTALL += " \
 	mosquitto \
 	python3 \
 	python3-paho-mqtt \
+	tzdata \
 	"
