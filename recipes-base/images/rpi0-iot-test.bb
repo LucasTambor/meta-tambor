@@ -9,4 +9,6 @@ IMAGE_INSTALL += " \
 	python3-paho-mqtt \
 	tzdata \
 	bash \
+	sqlite3 \
+	libsqlite3-dev \
 	"
