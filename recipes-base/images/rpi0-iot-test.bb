@@ -8,4 +8,5 @@ IMAGE_INSTALL += " \
 	python3 \
 	python3-paho-mqtt \
 	tzdata \
+	bash \
 	"
