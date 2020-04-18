@@ -11,4 +11,5 @@ IMAGE_INSTALL += " \
 	bash \
 	sqlite3 \
 	libsqlite3-dev \
+	python3-azure-iot-device \
 	"
