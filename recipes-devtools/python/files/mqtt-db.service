@@ -1,0 +1,8 @@
+[Unit]
+Description=Python MQTT and SQLite3 Application
+
+[Service]
+ExecStart=/opt/mqttApp/app.py
+
+[Install]
+WantedBy=multi-user.target

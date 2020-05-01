@@ -13,3 +13,7 @@ IMAGE_INSTALL += " \
 	libsqlite3-dev \
 	python3-azure-iot-device \
 	"
+
+IMAGE_INSTALL += " \
+	mqtt-db \
+"
